@@ -1,0 +1,12 @@
+{
+  "version": "2.8.7",
+  "base_url": "https://tasapp.tasbazi.com/",
+  "backup_urls": [
+    "http://38.242.198.186:3001/"
+  ],
+  "update_message": "سرور به آدرس جدید منتقل شد",
+  "force_update": false,
+  "min_app_version": "2.8.0",
+  "maintenance_mode": false,
+  "last_updated": "2025-12-28T12:00:00Z"
+}
