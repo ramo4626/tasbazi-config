@@ -1,8 +1,8 @@
 {
   "version": "2.8.7",
-  "base_url": "https://tasapp.tasbaziapp.xyz/",
+  "base_url": "https://tasapp.tasbazi.com/",
   "backup_urls": [
-    "https://api.tasbaziapp.xyz"
+    "https://api.tasbaziapp.xyz/"
   ],
   "update_message": "سرور به آدرس جدید منتقل شد",
   "force_update": false,
