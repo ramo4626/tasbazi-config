@@ -5,7 +5,7 @@
     "https://tasbaziapp.xyz/"
   ],
   "min_app_version": "2.9.5",
-  "force_update": false,
+  "force_update": true,
   "download_url": "https://tasbazi.com/tasbazi.apk",
   "dollar_price": 163000,
   "tron_price": 46300,
