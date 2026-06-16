@@ -1,14 +1,14 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.3",
   "base_url": "https://tasapp.tasbazi.com/",
   "backup_urls": [
     "https://tasbaziapp.xyz/"
   ],
-  "min_app_version": "3.0.1",
+  "min_app_version": "3.0.3",
   "force_update": true,
   "download_url": "https://tasbazi.com/tasbazi.apk",
-  "dollar_price": 163000,
-  "tron_price": 46300,
+  "dollar_price": 150000,
+  "tron_price": 41300,
   "wallet_address": "TCokp7Ktu3ZVsHMp19YELVN51zGPgK4Eh4",
   "update_message": "Server moved to new address",
   "maintenance_mode": false,
