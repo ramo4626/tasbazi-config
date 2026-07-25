@@ -5,8 +5,13 @@
     "https://tasbaziapp.xyz/"
   ],
   "min_app_version": "3.1.1",
+  "min_app_version_legacy": "3.1.1",
+  "min_app_version_modern": "3.1.1",
   "force_update": true,
+  "sdk_threshold": 24,
   "download_url": "https://tasbazi.com/tasbazi.apk",
+  "modern_download_url": "https://tasbazi.com/tasbazi.apk",
+  "legacy_download_url": "https://tasbazi.com/tasbazi.apk",
   "dollar_price": 190000,
   "tron_price": 51300,
   "wallet_address": "TCokp7Ktu3ZVsHMp19YELVN51zGPgK4Eh4",
