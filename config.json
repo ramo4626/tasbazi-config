@@ -4,7 +4,7 @@
   "backup_urls": [
     "https://tasbaziapp.xyz/"
   ],
-  "min_app_version": "3.1.5",
+  "min_app_version": "3.1.6",
   "min_app_version_legacy": "3.1.6",
   "min_app_version_modern": "3.1.6",
   "force_update": true,
